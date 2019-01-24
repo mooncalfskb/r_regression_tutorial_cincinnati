@@ -43,8 +43,8 @@ summary(model1)
 # -2.2905  -0.1395  -0.0528  -0.0189   3.3346  
 # 
 # Coefficients:
-#   Estimate Std. Error z value Pr(>|z|)    
-# (Intercept) -1.101e+01  4.887e-01  -22.52   <2e-16 ***
+#   Estimate        Std.          Error z value Pr(>|z|)    
+# (Intercept)   -1.101e+01  4.887e-01  -22.52   <2e-16 ***
 #   balance      5.669e-03  2.949e-04   19.22   <2e-16 ***
 #   ---
 #   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
